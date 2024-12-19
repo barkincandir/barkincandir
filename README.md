@@ -1,4 +1,4 @@
-# H<h1 align="center">Hello, I'm Barkın Çandır 👋</h1>
+# <h1 align="center">Hello, I'm Barkın Çandır 👋</h1>
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
