@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Artificial Intelligence (AI)**
 - 👯 I’m looking to collaborate on **AI, Data Science, and Automation Projects**
 - 💬 Ask me about **Artificial Intelligence, Data Science, and Automation Systems**
-- 📫 How to reach me: barkincandir@gmail.coom
+- 📫 How to reach me: barkincandir@gmail.com
 - ⚡ Fun fact: Play video games
 
 ## 💻 Skills & Technologies
